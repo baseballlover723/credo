@@ -4,6 +4,7 @@ on:
     branches:
       - master
       - release/*
+      - pr/deps_test
 
 jobs:
   test_on_source:
